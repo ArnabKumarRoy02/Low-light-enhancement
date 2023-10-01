@@ -20,7 +20,7 @@
 
 <div align="center">
 	:::figure
-	![Downsampling module]("Images/downsampling module.png")
+	![Downsampling module](Images/downsampling module.png)
 	:::figure
-	![Upsampling module]("Images/Upsampling module.png")
+	![Upsampling module](Images/Upsampling module.png)
 </div>
