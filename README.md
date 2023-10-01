@@ -8,7 +8,7 @@ This repository contains code for performing low light image enhancement using t
  - [Dataset](#dataset)
  - [Installation](#installation)
  - [Dual Attention Module](#dual-attention-module)
- - [Contribution](#contribution)
+ - [Contributions](#contributions)
  - [License](#license)
 
 ## Introduction
