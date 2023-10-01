@@ -18,9 +18,6 @@
 	<br>
 </div>
 
-<div align="center">
-	:::figure
-	![Downsampling module](Images/downsampling module.png)
-	:::figure
-	![Upsampling module](Images/Upsampling module.png)
-</div>
+Downsampling Module            |  Upsampling Module
+:-------------------------:|:-------------------------:
+![](Images/downsampling-module.png)  |  ![](Images/upsampling-module.png)
