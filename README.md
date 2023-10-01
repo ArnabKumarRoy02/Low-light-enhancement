@@ -17,3 +17,10 @@
 	<p>Dual Attention Module</p>
 	<br>
 </div>
+
+<div align="center">
+	:::figure
+	![Downsampling module](Images/downsampling module.png)
+	:::figure
+	![Upsampling module](Images/Upsampling module.png)
+</div>
